@@ -1,0 +1,8 @@
+ID: UI5FioriElements_project-1
+_schema-version: '2.1'
+version: 0.0.1
+
+modules:
+ - name: webapp
+   type: html5
+   path: webapp
